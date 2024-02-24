@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyLogin</string>
+    <string name="go_map">GO MAP</string>
+    <string name="welcome">Welcome</string>
+    <string name="please_login_with_your_information">Please login with your information</string>
+    <string name="email_address">Email Address</string>
+    <string name="password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="i_forgot_my_password">I forgot my password</string>
+    <string name="login">Login</string>
+    <string name="or_login_with">Or Login with</string>
+    <string name="exemplo_email_com">exemplo@email.com</string>
+    <string name="your_password">your password</string>
+</resources>
